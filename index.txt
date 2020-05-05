@@ -3,5 +3,5 @@ hella
 ola
 merhaba
 hoit
-Doi
-Salut
+Doiii
+Bonjour
