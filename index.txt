@@ -4,4 +4,5 @@ ola
 merhaba
 hoit
 Doiii
-Bonjour
+Salut
+Privet
